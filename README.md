@@ -6,6 +6,7 @@
 esp-at project was started and powered by Espressif Systems (@[espressif](https://github.com/espressif/)) as an official project, for the **ESP8266**, **ESP32**, **ESP32-C3**, and **ESP32-S2** Series SoCs provided for Windows, Linux, and macOS.  
 It is now supported and maintained by Espressif esp-at team (@[esp-at](https://github.com/espressif/esp-at)).
 
+
 esp-at is Free Software under a MIT license.
 
 # Introduction
